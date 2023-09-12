@@ -1,0 +1,2 @@
+# Courserashit
+Stupi assignment
